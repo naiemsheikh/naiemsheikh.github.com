@@ -2,7 +2,7 @@
 layout: post
 title: Vanilla JS or Other JS Libraries
 subtitle: Practice in JavaScript Not in JS Libraries
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/vanilaJS.jpg
 thumbnail-img: /assets/img/js_thumbnail.png
 share-img: /assets/img/vanilaJS.jpg
 tags: [js, JS_Libraries]
