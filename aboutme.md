@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Naim Sheikh
+subtitle: A software engineer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, my name is Muhammad Naim Sheikh. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
