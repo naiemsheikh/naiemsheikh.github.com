@@ -16,3 +16,7 @@ What else do you need?
 ### My story
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my Resume](https://github.com/naiemsheikh/naiemsheikh/raw/main/Naim_Sheikh.pdf) and it will answer **all** your questions.
+
+For Any Query or Task Contact Me @
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-naiem-sheikh-58162a147/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:naiem662@gmail.com)
