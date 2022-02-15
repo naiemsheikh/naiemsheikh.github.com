@@ -4,9 +4,11 @@ title: Naim Sheikh
 subtitle: A software engineer
 ---
 
-Hi, my name is Muhammad Naim Sheikh. I have the following qualities:
+Hi, You know what, The history of software engineering begins in the 1960s. Writing software has evolved into a profession concerned with how best to maximize the quality of software and of how to create it. Quality can refer to how maintainable software is, to its stability, speed, usability, testability, readability, size, cost, security, and the number of flaws or "bugs", as well as to less measurable qualities like elegance, conciseness, and customer satisfaction, among many other attributes. How best to create high-quality software is a separate and controversial problem covering software design principles, so-called "best practices" for writing code, as well as broader management issues such as optimal team size, process, how best to deliver software on time and as quickly as possible, work-place "culture", hiring practices, and so forth. All this falls under the broad rubric of software engineering.
 
-- I rock a great mustache
+This is Muhammad Naim Sheikh, A Software Engineer, Technical Documentation Writer, and Web Developer. He is playing various roles for around 3 years in the Software Industry, which makes him a strong candidate in this sector. As a token of his versatility and passion towards he has practical knowledge in System Analysis, also.
+These are my following qualities: 
+- I rock a great beard
 - I'm extremely loyal to my family
 
 What else do you need?
