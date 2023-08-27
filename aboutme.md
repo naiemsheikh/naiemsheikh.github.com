@@ -1,12 +1,24 @@
 ---
 layout: page
 title: Naim Sheikh
-subtitle: A Software Engineer, Technical Writer, and a Web Developer
+subtitle: A Software Engineer, UX Designer, and a Front-End Developer
 ---
 
-Hi, You know what, The history of software engineering begins in the 1960s. Writing software has evolved into a profession concerned with how best to maximize the quality of software and of how to create it. Quality can refer to how maintainable software is, to its stability, speed, usability, testability, readability, size, cost, security, and the number of flaws or "bugs", as well as to less measurable qualities like elegance, conciseness, and customer satisfaction, among many other attributes. How best to create high-quality software is a separate and controversial problem covering software design principles, so-called "best practices" for writing code, as well as broader management issues such as optimal team size, process, how best to deliver software on time and as quickly as possible, work-place "culture", hiring practices, and so forth. All this falls under the broad rubric of software engineering.
+### Meet Muhammad Naim Sheikh: The UX Maestro and Front-End Wizard
 
-This is Muhammad Naim Sheikh, A Software Engineer, Technical Documentation Writer, and Web Developer. He is playing various roles for around 3 years in the Software Industry, which makes him a strong candidate in this sector. As a token of his versatility and passion towards he has practical knowledge in System Analysis, also.
+In the bustling world of tech, Muhammad Naim Sheikh emerges as a UX design virtuoso and a Front-End Development maestro. With over three years of dedicated experience in these dynamic fields, he's more than just a professional; he's a driving force in creating exceptional digital experiences.
+
+### Crafting Exceptional User Experiences:
+Muhammad Naim Sheikh's journey begins with a passion for understanding the intricacies of human interaction with digital landscapes. As a UX Designer, he delves deep into the psyche of users, deciphering their perceptions, desires, and needs. His mission: to craft digital journeys that are not just functional but delightful.
+
+### The UX Alchemist:
+His canvas isn't just pixels; it's the user's emotions, beliefs, preferences, and perceptions. He follows the international standards on ergonomics of human-system interaction, ensuring that every interaction with a system, product, or service results in a positive user experience. His focus extends before, during, and after use, making sure users feel heard and valued.
+
+### Front-End Enchantments:
+But Muhammad Naim Sheikh's talents don't stop at user experience. He's also a Front-End Developer, skillfully translating design visions into tangible web experiences. With his coding prowess, he turns static designs into dynamic, interactive web interfaces. His code isn't just lines; it's the bridge that connects users to digital wonders.
+
+### Mastering the Art of Web Development:
+Muhammad Naim Sheikh's practical knowledge doesn't just cover the theoretical aspects of development. He's been in the trenches, analyzing systems, optimizing code, and ensuring websites are not just aesthetically pleasing but also high-performing. His websites aren't just digital spaces; they're engaging experiences.
 These are my following qualities: 
 - I rock a great beard
 - I'm extremely loyal to my family
