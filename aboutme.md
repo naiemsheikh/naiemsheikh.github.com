@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Naim Sheikh
-subtitle: A Software Engineer, UX Designer, and a Front-End Developer
+subtitle: A Software Engineer, UX Designer, and Front-End Developer
 ---
 
 ### Meet Muhammad Naim Sheikh: The UX Maestro and Front-End Wizard
