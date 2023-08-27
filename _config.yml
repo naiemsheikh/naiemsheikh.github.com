@@ -10,6 +10,10 @@ author: Naim Sheikh
 # --- List of links in the navigation bar --- #
 navbar-links:
   About Me: "aboutme"
+  Work:
+    - Github: "https://github.com/naiemsheikh"
+    - LinkedIn: "https://www.linkedin.com/in/muhammad-naim-sheikh-58162a147/"
+    - Portfolio: "https://www.behance.net/naiem662"
   Resources:
     - Resume: "https://github.com/naiemsheikh/naiemsheikh/raw/main/Naim_Sheikh.pdf"
     # - Learn markdown: "https://www.markdowntutorial.com/"
