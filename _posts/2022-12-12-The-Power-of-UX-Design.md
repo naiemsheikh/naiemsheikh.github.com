@@ -5,7 +5,7 @@ subtitle: Enhancing Digital Experiences
 cover-img: /assets/img/UX.jpg
 thumbnail-img: /assets/img/UX-thumb.png
 share-img: /assets/img/UX.jpg
-tags: [js, JS_Libraries]
+tags: [UX_Design, User_Research, UI/UX]
 ---
 
 User Experience (UX) design isn't just about aesthetics; it's a powerful driver of success in the digital world. Here are some compelling facts that emphasize the importance of UX design:
