@@ -4,7 +4,7 @@ title: Naim Sheikh
 subtitle: A Software Engineer, UX Designer, and Front-End Developer
 ---
 
-### Meet Muhammad Naim Sheikh: The UX Maestro and Front-End Wizard
+### The UX Maestro and Front-End Wizard
 
 In the bustling world of tech, Muhammad Naim Sheikh emerges as a UX design virtuoso and a Front-End Development maestro. With over three years of dedicated experience in these dynamic fields, he's more than just a professional; he's a driving force in creating exceptional digital experiences.
 
