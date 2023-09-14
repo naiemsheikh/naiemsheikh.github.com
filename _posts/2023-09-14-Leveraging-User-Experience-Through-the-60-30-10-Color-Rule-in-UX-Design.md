@@ -48,6 +48,6 @@ To effectively apply the 60-30-10 color rule in UX design:
 
    4. Consider Cultural and Emotional Factors: Be aware that colors can evoke different emotions and have cultural connotations. Ensure your color choices align with the intended emotional impact of the design.
 
-###Conclusion
+### Conclusion
 
 In the realm of UX design, the 60-30-10 color rule is a powerful tool for creating aesthetically pleasing, user-centric interfaces. By carefully balancing dominant, secondary, and accent colors, designers can achieve visual harmony, brand consistency, and improved user engagement. As UX design continues to evolve, the principles of balance and aesthetics will remain central, making the 60-30-10 color rule a valuable asset in every designer's toolkit.
