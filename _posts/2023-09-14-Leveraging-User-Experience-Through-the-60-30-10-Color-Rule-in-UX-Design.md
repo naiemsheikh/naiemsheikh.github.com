@@ -10,7 +10,7 @@ tags: [UX, UIUX, UI_design, Visual_experience]
 
 In the realm of User Experience (UX) design, aesthetics play a pivotal role in shaping how users interact with digital products and interfaces. The 60-30-10 color rule, a well-established principle in interior design, has found its way into the world of UX design as a valuable guideline for creating visually appealing and user-friendly digital experiences. In this article, we explore how the 60-30-10 color rule can be harnessed to elevate the user experience and deliver intuitive, aesthetically pleasing designs.
 
-<img src="../img/60-30-10.png" width="600px" style="padding-top:15px">
+
 
 ### Translating Interior Design Principles to UX Design
 
@@ -22,7 +22,7 @@ The 60-30-10 color rule, originally conceived for interior design, can be seamle
 
     3. 10% Accent Color: The accent color is the smallest but most impactful portion of the color scheme. It is reserved for highlighting critical interactive elements, such as call-to-action buttons, error messages, or notifications. This vibrant and eye-catching color not only draws users' attention but also reinforces the brand's identity and adds a touch of personality to the design.
 
-<img src="../img/UX-article.png" width="600px" style="padding-top:15px">
+<img src="https://naiemsheikh.github.io/assets/img/60-30-10.png" width="600px" style="padding-top:15px">
 
 ### Benefits of Implementing the 60-30-10 Color Rule in UX Design:
 
@@ -33,8 +33,8 @@ The 60-30-10 color rule, originally conceived for interior design, can be seamle
     3. Accessibility and Readability: Well-chosen color combinations enhance readability and accessibility. The rule encourages designers to select colors that have sufficient contrast, ensuring content remains easily legible for all users, including those with visual impairments.
 
     4. User Engagement: The judicious use of the accent color can encourage user interaction and engagement with specific elements, improving the overall user experience.
-
-<img src="https://chauff.github.io/img/ecir2019-results.png" width="600px">
+    
+<img src="https://naiemsheikh.github.io/assets/img/UX-article.png" width="600px" style="padding-top:15px">
 
 ### Implementing the Rule in Practice
 
